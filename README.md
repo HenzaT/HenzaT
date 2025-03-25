@@ -5,9 +5,11 @@ Developer with a background in teaching and music. I am currently enrolled in Le
 My projects include:
 > Blue Horizon
       - an airbnb clone centered around renting and leasing yachts
+      - https://blue-horizon-andrejo42-2c99cbea77a6.herokuapp.com/
 
 > Morning Burrito
       - a web app that allows users to be creative
+      - https://www.morning-burrito.me/
 
 > Gimme a Song
       - a web app that gives musicians and bands a songwriting challenge
