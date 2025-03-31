@@ -4,19 +4,22 @@ Developer with a background in teaching and music. I am currently enrolled in Le
 
 My projects include:
 > Blue Horizon
+> - https://blue-horizon-andrejo42-2c99cbea77a6.herokuapp.com/
 > - an web app/airbnb clone centered around renting and leasing yachts
 > - group project
-> - https://blue-horizon-andrejo42-2c99cbea77a6.herokuapp.com/
+
 
 > Morning Burrito (in progress)
+> - https://www.morning-burrito.me/
 > - a mobile app that allows users to be creative
 > - group project
-> - https://www.morning-burrito.me/
+
 
 > Gimme a Song (in progress)
+> - https://gimme-a-song-75fdbe92334c.herokuapp.com/
 > - a web/mobile app that gives musicians and bands a songwriting challenge
 > - golo project
-> - https://gimme-a-song-75fdbe92334c.herokuapp.com/
+
 
 <!--
 **HenzaT/HenzaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
