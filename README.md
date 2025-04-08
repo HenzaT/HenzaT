@@ -15,10 +15,10 @@ My projects include:
 > - group project
 
 
-> Gimme a Song (in progress)
+> Gimme a Song
 > - https://gimme-a-song-75fdbe92334c.herokuapp.com/
 > - a web/mobile app that gives musicians and bands a songwriting challenge
-> - golo project
+> - solo project
 
 
 <!--
