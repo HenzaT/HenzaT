@@ -3,9 +3,6 @@
 Developer with a background in teaching and music. I recently completed Le Wagon's Web Development bootcamp and I am actively looking for software engineering roles.
 As well as web development, I write and produce music.
 
-Check out my portfolio:
-https://henzat.github.io/portfolio_new/
-
 <!--
 **HenzaT/HenzaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
