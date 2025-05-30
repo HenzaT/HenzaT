@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Developer with a background in teaching and music. I recently completed Le Wagon's Web Development bootcamp and I am actively looking for software engineering roles.
+Software Developer with a background in teaching and music. I recently completed Le Wagon's Web Development bootcamp and I am actively looking for software engineering roles.
 As well as web development, I write and produce music.
 
 <!--
