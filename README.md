@@ -5,7 +5,7 @@ As well as web development, I write and produce music.
 
 - 🔭 I’m currently working on 'The Country Club', a web app that tracks the countries you've visited and shares fun, informative facts about each one.
 - 🌱 I’m currently learning React.js and about AWS.
-- ⚡ Fun fact: I am half Japanese!
+- ⚡ Fun fact: I am half Japanese - once I learn more about React, I want to use it to create a flashcard app to help with JLPT revision! 
 
 <!--
 **HenzaT/HenzaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
