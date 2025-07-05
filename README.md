@@ -4,8 +4,9 @@ Software Developer with a background in education. I'm passionate about building
 As well as web development, I write and produce music.
 
 - 🔭 I’m currently working on 'The Country Club', a web app that tracks the countries you've visited and shares fun, informative facts about each one.
+- 🔭 I'm also working on 'JLPTrainer', a React.js/TypeScript Japanese kanji flashcard app for those interested in taking the JLPT exams. 
 - 🌱 I’m currently learning React.js and about AWS.
-- ⚡ Fun fact: I am half Japanese - once I learn more about React, I want to use it to create a flashcard app to help with JLPT revision! 
+- ⚡ Fun fact: I am half Japanese and write music!
 
 <!--
 **HenzaT/HenzaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
