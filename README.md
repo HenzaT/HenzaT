@@ -3,10 +3,13 @@
 Software Developer with a background in education. I'm passionate about building user-centered products that combine smooth, interactive UI/UX with robust backend architectures designed to support and enhance the user experience. I recently completed Le Wagon's Web Development bootcamp and I am actively looking for software engineering roles.
 As well as web development, I write and produce music.
 
+# Skills
+Ruby on Rails | TypeScript | JavaScript | React | SQL | CSS 
+
 - 🔭 I’m currently working on 'The Country Club', a web app that tracks the countries you've visited and shares fun, informative facts about each one.
 - 🔭 I'm also working on 'JLPTrainer', a React.js/TypeScript Japanese kanji flashcard app for those interested in taking the JLPT exams. 
 - 🌱 I’m currently learning React.js and about AWS.
-- ⚡ Fun fact: I am half Japanese and write music!
+- ⚡ Fun fact: I am half Japanese!
 
 <!--
 **HenzaT/HenzaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
