@@ -6,7 +6,7 @@ My passion for tech began when I started recording and producing music - I was f
 
 Wanting to understand the technology in a deeper way and to learn how to build products myself, I enrolled in a web development course. 
 
-I work with a range of technologies and am always eager to explore and learn new tools. My core strengths include TypeScript, Ruby on Rails, CSS, React and SQL and I am currently expanding my skillset by learning Python.
+I work with a range of technologies and am always eager to explore and learn new tools. My core strengths include Ruby on Rails, TypeScript, CSS, React and SQL and I am currently expanding my skillset by learning Python.
 
 My experience as a teacher has equipped me with clear communication, leadership, and collaboration skills - qualities I bring to every team and project I’m part of.
 
