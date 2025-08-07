@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there | ようこそ
 
 I'm a Software Developer with a background in education. 
 
