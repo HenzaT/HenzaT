@@ -20,6 +20,7 @@ Ruby on Rails | TypeScript | JavaScript | React | SQL | CSS
 - 🌱 I’m currently learning React.js and about AWS.
 - ⚡ Fun fact: I am half Japanese!
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenzaT"/>
 <!--
 **HenzaT/HenzaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
